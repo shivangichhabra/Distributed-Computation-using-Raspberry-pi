@@ -1,11 +1,4 @@
-/*
- *  Project 2
- *  Professor : Peizhao Hu
- *  Course :  CSCI - 759
- *  
- *  @author1 : Ruturaj Hagawane
- *  @author2 : FNU Shivangi
- *  
+/*  
  *  This class is same as BufferReader class but 
  *  adds functionality to peek top value of file
  * 
