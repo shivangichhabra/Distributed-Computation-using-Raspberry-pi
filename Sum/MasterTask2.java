@@ -1,11 +1,4 @@
-/*
- *  Project 2
- *  Professor : Peizhao Hu
- *  Course :  CSCI - 759
- *  
- *  @author1 : Ruturaj Hagawane
- *  @author2 : FNU Shivangi
- * 
+/* 
  * Communicates with slave machines and 
  * allocates task to the slave
  * 
